@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int n;
-    cout<<"please enter three digit nber: ";
+    cout<<"please enter three digit number: ";
     cin>>n;
 
     int a = n / 100;
